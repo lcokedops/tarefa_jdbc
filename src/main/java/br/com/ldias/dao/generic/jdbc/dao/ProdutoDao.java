@@ -8,7 +8,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 import br.com.ldias.dao.generic.jdbc.ConnectionFactory;
-import br.com.ldias.domain.Cliente;
 import br.com.ldias.domain.Produto;
 
 public class ProdutoDao implements IProdutoDao {
